@@ -1,0 +1,25 @@
+*.[oa]
+*.~
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs and output
+*.log
+output/
+dist/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
